@@ -15,7 +15,7 @@ class Database:
             user="postgres",
             password="12345678",
             host="localhost",
-            port="5433"
+            port="5432"
         )
 
     @staticmethod
